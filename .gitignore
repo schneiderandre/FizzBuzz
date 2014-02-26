@@ -14,5 +14,6 @@ results
 build
 .grunt
 .idea
+.DS_Store
 
 node_modules
