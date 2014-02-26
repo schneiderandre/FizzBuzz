@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "André Schneider",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "1.17.x",
+    "expect.js": "0.3.x"
+  }
 }
